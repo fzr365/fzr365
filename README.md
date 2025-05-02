@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+fzr365;Welcome+to+my+Github)
 
 **fzr365/fzr365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
