@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+fzr365;Welcome+to+my+Github)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=I'm+fzr365+%F0%9F%91%8B;Backend+Engineer+in+progress...;Java+%7C+Go+%7C+Spring+Boot+%7C+Gin;Interned+at+Tencent%2C+NSFOCUS%2C+DiDi;Loves+clean+code+%26+system+design;Welcome+to+my+GitHub!+%F0%9F%92%BB" />
+</p>
 
 
 ### 🚀 About Me
