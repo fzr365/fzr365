@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1ABC9C&center=true&vCenter=true&width=435&lines=I'm+fzr365+%F0%9F%91%8B;Backend+Engineer+in+progress...;Welcome+to+my+GitHub!+%F0%9F%92%BB" />
 </p>
 
-
+- [![](https://img.shields.io/endpoint?url=https://awards.antv.vision/fzr365-g2-contributor.json)](https://github.com/antvis/g2)
 ### 🚀 About Me
 
 * 🧑‍💻 **Aspiring Backend Engineer**, passionate about building scalable, resilient backend systems.
