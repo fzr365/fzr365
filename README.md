@@ -11,7 +11,7 @@
 
   * 📍 **Tencent** *(2025.4-Current)* – Supporting **large language models (LLMs)** by building and maintaining high-throughput **data platform infrastructure**.
   * 🚖 **DiDi** *(3 months)* – Worked on **Go-based backend development** for the **ride-hailing service**, participated in building and maintaining **microservices**, and was responsible for maintaining and optimizing **DDMQ (DiDi Message Queue)** in production environments.
-  * 🛡️ **NSFOCUS (绿盟科技)** *(5 months)* – Contributed to **platform development**, with hands-on experience in **high-concurrency system design** and performance optimization.
+  * 🛡️ **NSFOCUS** *(5 months)* – Contributed to **platform development**, with hands-on experience in **high-concurrency system design** and performance optimization.
  
     
 * 💡 **Technical Stack & Strengths**
